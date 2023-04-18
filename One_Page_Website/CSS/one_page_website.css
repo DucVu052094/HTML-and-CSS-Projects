@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+    color: yellow;
+    font-family: Arial;
+    font-size: 10;
+}
+
+.rsvp input[type="text"] {
+    width: 200px;
+    height: 20px;
+    margin-left: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    border: 100px;
+    border-radius: 10px;
+}
